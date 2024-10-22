@@ -5,3 +5,4 @@
 - hw_1_2_1_Списки_ipynb_
 - hw_1.2.3 Словники, набори, кортежі.ipynb.ipynb
 - hw_1_2_4_If_else.ipynb
+- hw_1_3_1_1_3_2__for.ipynb

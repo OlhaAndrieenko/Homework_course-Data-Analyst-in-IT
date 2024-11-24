@@ -15,3 +15,4 @@
 - hw_3_1_Введення_у_Pandas_та_NumPy_
 - hw_3_2_Основи_роботи_з_даними_у_Pandas
 - hw_3_3_Розширені_методи_обробки_даних_у_Pandas
+- hw_3_4_apply,_groupby,_pivot_table.ip
